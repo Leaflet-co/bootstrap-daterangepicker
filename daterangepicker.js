@@ -215,7 +215,7 @@
             this.dateLimit = options.dateLimit;
 
         if (typeof options.dateLimitMin === 'object')
-            this.dateLimit = options.dateLimitMin;
+            this.dateLimitMin = options.dateLimitMin;
 
         if (typeof options.opens === 'string')
             this.opens = options.opens;
