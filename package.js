@@ -1,6 +1,6 @@
 Package.describe({
   name: 'leaflet-co:bootstrap-daterangepicker',
-  version: '2.1.27',
+  version: '2.1.28',
   summary: 'Date range picker component for Bootstrap',
   git: 'https://github.com/leaflet-co/bootstrap-daterangepicker',
   documentation: 'README.md'
